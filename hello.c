@@ -10,6 +10,10 @@ int add(int a,int b)
 {
     return a+b;
 }
+int main1()
+{
+    printf("this is also the branch of main!\n");
+}
 int main(void)
 {
     printf("this is also a test\n");
