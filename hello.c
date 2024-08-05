@@ -6,6 +6,14 @@ int max(int a,int b)
     else
         return b;
 }
+int add(int a,int b)
+{
+    return a+b;
+}
+int test()
+{
+    printf("this is in the test branch!\n");
+}
 int main(void)
 {
     printf("this is also a test\n");
