@@ -14,6 +14,10 @@ int main1()
 {
     printf("this is also the branch of main!\n");
 }
+int test()
+{
+    printf("this is in the test branch!\n");
+}
 int main(void)
 {
     printf("this is also a test\n");
