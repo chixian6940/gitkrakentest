@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("Hello,World!\n");
+    printf("this is also a test\n");
 }
